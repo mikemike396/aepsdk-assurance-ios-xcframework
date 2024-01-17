@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AEPAssurance-Swift.h</key>
 		<data>
-		CDQ1ztSgkFzn4hUH7f47KoGpRdk=
+		Dr4ipW9Z0nP6/t12UKFJalsS6bk=
 		</data>
 		<key>Headers/AEPAssurance.h</key>
 		<data>
@@ -14,72 +14,64 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cSawp8/jpxzO+R/R1JLTkkF5QQs=
+		F9NASTA/IpyBrE32wWgo7IE+YVg=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		TSdWTS+eBnDqNTYFyHqM/tj7cgo=
+		7o372HaerjfDHy1BbraIERRSfjw=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		t6MToPMeexUVagZ6uMV1ckPcVwA=
+		4VStDmaUKUC/GMhxICfI9/Quc/4=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		suAeOkZwetUfpXer9OShsAWJwHs=
+		QfoX5KaKKLX/k079pZUjbCaWjxE=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		t6MToPMeexUVagZ6uMV1ckPcVwA=
+		4VStDmaUKUC/GMhxICfI9/Quc/4=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		S1NiPmmjYtQPZ5YCKhaVapmGyng=
+		xsODr2wd5cGpsZV835fnlBiPYxM=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TSdWTS+eBnDqNTYFyHqM/tj7cgo=
+		7o372HaerjfDHy1BbraIERRSfjw=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		KTixJrUqQ2Yquv4lVTWrZzctAy8=
+		kRev2csUmPoFvE99MwrTUEQmiXc=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		BfqH0BRuvDpsbD4FF6rc2t1IjcQ=
+		zDzkX8Ul92IvHo0KCmQ8jKynWcI=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KTixJrUqQ2Yquv4lVTWrZzctAy8=
+		kRev2csUmPoFvE99MwrTUEQmiXc=
 		</data>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RNIL4NIXvpfDlDCwAEiKebChuJM=
+		EcW3z0DpOA7b1jt6Jpr8l1kCYPQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ZzplqlJrME/mwdFAsh4Nn89J4lk=
+		VTDfCWIdWpMFGeu3JaOjCWY7iKE=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/AEPAssurance-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CDQ1ztSgkFzn4hUH7f47KoGpRdk=
-			</data>
 			<key>hash2</key>
 			<data>
-			7GWFMVKa3OoYTP0S4OdFSUcG4OlkE1m+47ispgLF8xc=
+			gcmcnClXrRaesgCNrngl+JD/ZiZx+ijRojgDIGBIWEo=
 			</data>
 		</dict>
 		<key>Headers/AEPAssurance.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QmyLhbMgh5vOkhjX8UVPsi6C8gQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			aiHjEvUYZOpOCmQgxjxaEEKFPobelmlQzDR4rvHlfx8=
@@ -87,123 +79,79 @@
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TSdWTS+eBnDqNTYFyHqM/tj7cgo=
-			</data>
 			<key>hash2</key>
 			<data>
-			5dgdRSWECKJ+KbM2JcHtCJ4hdWqKV3TF8kUZeNXubGo=
+			eF4zToiBV9S322xXR8WBJYIeeo6dXHRibVCR64Llbcw=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t6MToPMeexUVagZ6uMV1ckPcVwA=
-			</data>
 			<key>hash2</key>
 			<data>
-			XTl62vj7343crN0VtEZ5oGcru1IOrE/W9kqld0Waz58=
+			HBFUKzRbFC7vW1DM6goCh0xUHK3nEQ2n9DqmRUWSsV4=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			suAeOkZwetUfpXer9OShsAWJwHs=
-			</data>
 			<key>hash2</key>
 			<data>
-			f1wdeWhTLgxh7uhH8wQ7zwj6lYcvz//fvpye0mNSZVk=
+			p97Q2aFPFGmt4RcxCREnUUSilaWhYmvf8g3Dq8fjlNo=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t6MToPMeexUVagZ6uMV1ckPcVwA=
-			</data>
 			<key>hash2</key>
 			<data>
-			XTl62vj7343crN0VtEZ5oGcru1IOrE/W9kqld0Waz58=
+			HBFUKzRbFC7vW1DM6goCh0xUHK3nEQ2n9DqmRUWSsV4=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			S1NiPmmjYtQPZ5YCKhaVapmGyng=
-			</data>
 			<key>hash2</key>
 			<data>
-			AsRxrasszVOSC78MK606YfaMag5oRkYFaY46GdkBVyo=
+			lqpA494jCALwJHQi7oKVOVFgOEKC5918ubtxM/Kl/+Y=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TSdWTS+eBnDqNTYFyHqM/tj7cgo=
-			</data>
 			<key>hash2</key>
 			<data>
-			5dgdRSWECKJ+KbM2JcHtCJ4hdWqKV3TF8kUZeNXubGo=
+			eF4zToiBV9S322xXR8WBJYIeeo6dXHRibVCR64Llbcw=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KTixJrUqQ2Yquv4lVTWrZzctAy8=
-			</data>
 			<key>hash2</key>
 			<data>
-			tU5POeeRV6A725NBxhBQuHVVz3lIfHHli/9lxnl4nqo=
+			6B9q8m50iTuNEqW46rGtFE68Ae+GDxbvm4KTa0BcY04=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BfqH0BRuvDpsbD4FF6rc2t1IjcQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			J05liZbsc1CQSOWyA6s2lBbhdZEXJrI3Nf+laTDr7dM=
+			hN6sNHA3kgQIDtNvFF07lNAu6yfL8LjhqH8+vRD/3xs=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KTixJrUqQ2Yquv4lVTWrZzctAy8=
-			</data>
 			<key>hash2</key>
 			<data>
-			tU5POeeRV6A725NBxhBQuHVVz3lIfHHli/9lxnl4nqo=
+			6B9q8m50iTuNEqW46rGtFE68Ae+GDxbvm4KTa0BcY04=
 			</data>
 		</dict>
 		<key>Modules/AEPAssurance.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RNIL4NIXvpfDlDCwAEiKebChuJM=
-			</data>
 			<key>hash2</key>
 			<data>
-			+m3hqv7kL2EbFUvVPgzDRaM6xwG6a0fgj4KsDodP2xs=
+			/Vy9VIaGt0w5cP3IRKpWlKkzSj0zbHHV3+qSSIXT+Z4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZzplqlJrME/mwdFAsh4Nn89J4lk=
-			</data>
 			<key>hash2</key>
 			<data>
-			7UM3eKEhig07MQRapZeUNFDnTmK1sO2mibuw53UvHE0=
+			nR4uOVQS/cWKLn1treKMlmiEVb7Y7pjqwIedGRZ5LJc=
 			</data>
 		</dict>
 	</dict>
